@@ -1,0 +1,25 @@
+                               Python Operator
+                          --------------------------
+7 Types
+1. Arthmetic Operator                                         +,-,*,/,%,//,**
+
+2. Comparsion / Relational Operator                           <,>,<=,>=,!=,==
+
+3. Assignment Operator                                        +,+=,-=,*=,/=,//=
+
+4. Bitwise Operator                                           &,|,^
+
+5. Logical Operator                                           and , or , not
+
+6. Identity Operator                                          is , is not
+
+7. Membership Operator                                        in, not in
+
+
+()        ---          Function, Expression, Tuple
+
+{}        ---          Set , Dictionary
+
+[]        ---          List , Indexing , slicing
+
+<>        ---          No use

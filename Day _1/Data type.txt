@@ -1,0 +1,23 @@
+                                               Data Types 
+                                         ------------------------
+
+1. Numeric    ---    int ------a=4
+                     float -----b= 5.6
+                    complex-----c = 3+5j
+
+
+2. String   ----    str-----a= 'Hello' / a = "Hello"  / a= "hola"
+                    
+
+3. List    ----      list ------ my list = ['abc',5.5,5 , 2+6j]
+
+4. Tuple -------     tuple------ my tuple = (45,4.5,'hii',"bye")
+
+5. Set --------      set --------{1,12,5,36}
+
+
+6. Dictionary -------   dict {Key : value}
+
+
+7. Boolean--------------  True , False
+------------------------------------------------------------------|

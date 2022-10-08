@@ -1,0 +1,26 @@
+GIT Process
+=============
+
+> Create new respository
+> Provide Valid name
+> Select Public repo
+> finish
+
+
+GO to your folder (training camp)
+type 'cmd' in address bar then enter
+
+
+GIT Commands . training camp
+____________________________
+
+git init                                 #initialize the GIT folder
+git add .                                # Add all files/folders in git folder
+git config user.name"Your name"
+git config user.email"youremail@id"
+git remote add origin "yourrepolink.git"
+
+git commit -m"anymessage"
+git push -u origin main
+ 
+ 

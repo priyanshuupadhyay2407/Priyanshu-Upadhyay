@@ -1,0 +1,16 @@
+Rules Of Variable
+------------------
+1. can't start with number
+ex. 1 = 'python'
+
+2. No space
+a 1= 'python'
+
+3. can't use Special Character
+a$ = 'hello'
+
+4. can't use Keyword 
+for = 2.2
+
+
+

@@ -1,0 +1,6 @@
+Pythin Libary 
+
+1. Data Manupulication ---Numpy , Pandas
+2. Data Visualosation -- Matplotlib, Seaborn , Plotly
+3. Machine Learning --- Scikit-leran , Sk-learn
+4. Deep learning -- Tensorflow , Keras , Pytorch
